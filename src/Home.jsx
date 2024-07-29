@@ -10,9 +10,9 @@ import Homeimage from "./Homeimage";
 const Home = () => {
   return (
     <>
-      <div className="bg-customGradient mx-auto w-[1435px] h-850px] bg-shadow-lg">
+      <div className="bg-customGradient mx-auto w-[1440px] h-[883px] bg-shadow-lg">
         {/* <div className="flex "> */}
-        <div className=" flex bg-[src(Ellipse2)]">
+        {/* <div className=" flex bg-[src(Ellipse2)]">
           <img
             className="flex relative top-[-92px] rotate-[25deg] right-[23px] w-439 h-394 left-[-27] rotate-17 border-[#FFFFFF] drop-shodow-lg"
             src={Ellipse2}
@@ -22,17 +22,18 @@ const Home = () => {
         <img
           className="flex absolute rotate-16deg right-[-29px] top-[-35px] w-439 h-394 rotate-0.4 drop-shodow-lg"
           src={Ellipse1}
-        />
+        /> */}
 
-        <img
+        {/* <img
           className="absolute w-107 h-85 top-[75px] right-[14rem] opacity-65 justify-center rotate-4.50 drop-shodow-lg"
           src={note}
-        />
-        <div />
-
-        <div className="w-908">
-          <div />
-          <div className=" flex flex-col text-7xl justify-center md:font-bold font-normal w-908 h-331 items-center font-Rubik">
+        /> */}
+  <Homeimage />
+        {/* <div /> */}
+        <div className="flex flex-col absolute top-[7rem] ml-[17rem] w-[908px] h-[740px] gap-16 bg-purple-300">
+          {/* <div /> */}
+          <div className="flex flex-col mx-auto h-[331px] gap-6">
+          <div className="flex flex-col text-7xl justify-center md:font-bold font-normal w-908 h-331 items-center font-Rubik">
             <p className="flex fle-col text-center items-center justify-center family-Rubik text-[#130F40] line-78 w-775 h-156">
               Become an
               <p className=" flex font-Rubik text-[#4834D4] md:font-bold text-normal">
@@ -43,7 +44,7 @@ const Home = () => {
               Campus Ambassador
             </p>
           </div>
-          <div className="flex flex-col opacity-70 text-center justify-center line-28 w-908 h-84 text-sm font-normal text-[#100658]">
+          <div className="flex flex-col opacity-70 font-rubik text-center justify-center line-28 w-908 h-84 text-sm font-normal text-[#100658]">
             <p>
               The Airvend Campus Ambassadorship Program is designed to promote
               unique learning opportunities for students passionate about
@@ -57,12 +58,20 @@ const Home = () => {
               platform to build their leadership capabilities and showcase their
               talents.
             </p>
-          </div>
-          {/* </div> */}
-          {/* <button className="absolute bottom-[16rem] ml-[43.5rem] w-198 h-53 border-1 rounded-md pt-3 pr-8 pb-3 pl-8 bg-[#4834D4] text-[#ffff]">
+            </div>
+           
+      <button className="flex absolute bottom-[27rem] ml-[24rem] w-198 h-53 border-1 rounded-md py-3 px-12 bg-[#4834D4] text-[#ffff]">
         Apply Now
-      </button> */}
-          <Homeimage />
+      </button> 
+      </div>
+      
+      <div className="flex justify-content ">
+        <img
+        className="flex absolute bottom-[-2rem] mx-auto justify-center"
+        src={image1}
+      />
+      </div>
+        
           {/* <img className="flex w-107 mx-auto h-85 justify-center" src={image1} /> 
 
         {/* <p

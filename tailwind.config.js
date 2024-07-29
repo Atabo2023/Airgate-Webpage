@@ -13,7 +13,12 @@ export default {
       dropShadow: {
         "3xl": "2px 2px 10px 0px (#E9E9FD80)",
       },
+     
     },
+    
+     backgroundColor: {
+        lineBackground: "linear-gradient(148.78deg, rgba(255, 255, 255, 0.62) -18.48%, rgba(255, 255, 255, 0.12) 82.59%)"
+      }
   },
   //   exports = {
   //   plugins: {

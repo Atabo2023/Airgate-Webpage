@@ -11,7 +11,9 @@ const Connect = () => {
   return (
     <>
       <div className="w-[1435px] h-[655px] mx-auto bg-[#4834D4]">
-        <img className="absolute top-[146rem] overflow-hidden" src={Group} />
+        <div className="flex bg-contain">
+        <img className="absolute top-[146rem]" src={Group} />
+        </div>
         <div className="flex mx-auto Pt-[2rem] w-[662px] h-[108px] items-center justify-center">
           <p className="flex mt-[4rem] font-[montserrat] justify-center text-4xl font-semibold text-center leading-10 text-[#FFFFFF]">
             How to be an Airvend Campus Ambassadors.

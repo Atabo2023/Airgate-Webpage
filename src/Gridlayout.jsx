@@ -54,7 +54,7 @@ const Gridlayout = () => {
           <div className="bg-[#FFFFFF] drop-shadow-md w-[353px] h-[303px] rounded-xl p-4">
             <div className="flex flex-col w-[296px] mt-8 r mx-auto h-[205px] gap-y-2 bg-white">
               <img className="flex mx-auto w-[60px] h-[60px]" src={Icon} />
-              <div className="flex flex-col font-[montserrat] font-medium text-3xl leading-6 text-center text-[#100658] opacity-85">
+              <div className="flex flex-col font-[montserrat] font-medium gap-[0.5rem] text-3xl leading-6 text-center text-[#100658] opacity-85">
                 Early access to all Airvend events
                 <p className="flex opacity-65 p-1 font-rubik font-normal text-sm leading-6 text-center text-[#100658]">
                   Get an exclusive early access to all Airvend events and all
@@ -66,7 +66,7 @@ const Gridlayout = () => {
           <div className="bg-[#FFFFFF] drop-shadow-md w-[353px] h-[303px] rounded-xl p-4">
             <div className="flex flex-col w-[296px] mt-3 mx-auto h-[247px] gap-2 bg-white">
               <img className="flex mx-auto w-[60px] h-[60px]" src={Icon} />
-              <div className="flex flex-col font-[montserrat] font-medium text-3xl leading-6 text-center text-[#100658] opacity-85">
+              <div className="flex flex-col font-[montserrat] gap-[0.5rem] font-medium text-3xl leading-6 text-center text-[#100658] opacity-85">
                 Certification upon completion
                 <p className="flex opacity-65 p-1 font-rubik font-normal text-sm leading-6 text-center text-[#100658]">
                   Get certified upon completion ambassadorship program which
@@ -82,7 +82,7 @@ const Gridlayout = () => {
                 className="flex flex-col mx-auto w-[60px] h-[60px]"
                 src={Icon}
               />
-              <div className="flex flex-col font-[montserrat] font-medium text-3xl leading-6 text-center text-[#100658] opacity-85">
+              <div className="flex flex-col font-[montserrat] gap-[0.5rem] font-medium text-3xl leading-6 text-center text-[#100658] opacity-85">
                 Exclusive Branded Merch
                 <p className="flex opacity-65 p-1 font-rubik font-normal text-sm leading-6 text-center text-[#100658]">
                   As campus ambassador you’ll receive exclusive branded merch.

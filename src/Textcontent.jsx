@@ -38,7 +38,7 @@ const Textcontent = () => {
             <button className="flex border-1 font-md line-[21px] text-center rounded-lg py-4 px-16 border-[#9A9FBF40] rounded-3 bg-[#4834D4] text-[#FFFFFF] justify-left items-left">
               Apply Now
             </button>
-            <button className="flex rounded-lg border-solid border-1 border-[#9A9FBF] py-4 px-10 drop-shadow-2xl bg-[#FFFFFF] text-[#4834D4]">
+            <button className="flex rounded-lg border-solid border-1 border-[#9A9FBF] py-4 px-10 drop-shadow-md bg-[#FFFFFF] text-[#4834D4]">
               Learn More
             </button>
           </div>

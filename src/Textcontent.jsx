@@ -5,14 +5,14 @@ import image3 from "/assets/image3.png";
 
 const Textcontent = () => {
   return (
-    <div className="flex justify-start mx-auto items-center w-[1456px] h-[728px] top[1069] bg-white-500">
-      <div className="flex gap-[10rem] items-end w-[1456px] h-[566px] left[-16px] ">
+    <div className=" flex justify-start mx-auto items-center w-[1456px] h-[728px] top[1069] bg-white-500">
+      <div className=" flex gap-[10rem] items-end w-[1456px] h-[566px] left[-16px]">
         <img
           className="flex w-107 h-85 items-center justify-center"
           src={circle}
         />
         <img
-          className="flex absolute left-[180px] sm:top-[64rem] md:top-[64rem] w-107 h-85 object-right justify-center"
+          className=" flex absolute left-[180px] sm:top-[64rem] md:top-[64rem] w-107 h-85 object-right justify-center"
           src={image3}
         />
 
@@ -24,8 +24,8 @@ const Textcontent = () => {
         <div className="flex flex-col justify-start w-[678px] h-[347px]">
           <div className="flex items-start flex-col justify-center">
             {/* {/* <div className="flex w-[678px] h-[244px] p-[10px] gap-[10px]"> */}
-            <div className="text-[64px] font-bold text-[#4834D4]">
-              Lead, Collaborate, <span className="text-[#24126A]">and</span> Inspire 
+            <div className=" text-[64px] font-bold text-[#4834D4]">
+              Lead, Collaborate, <span className="text-[#24126A]">and</span> Inspire
             </div>
             <p className="flex text-[#130F40] text-start items-start justify-start pb-[2.5rem]">
               Join our campus ambassador program and become a catalyst for

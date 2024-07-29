@@ -27,17 +27,17 @@ function Homeimage() {
         </div>
 
  <img
-          className="flex absolute w-107 h-85 top-[32px] sm:right-[15rem] md:top-[32px] md:right-[15rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="flex absolute w-107 h-85 top-[25px] right-[20rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
           src={note}
         />
  <img
-          className="flex absolute w-107 h-85 top-[19rem] md:top-[19rem] right-[11rem] opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="flex absolute w-107 h-85 top-[19rem] right-[11rem] opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
           src={image2}
         />
 
       <div className="">
           <img
-          className="flex absolute h-85 md:top-[417px] md:right-[77rem] top-[417px] right-[77rem] opacity-[80%] justify-center  drop-shodow-lg"
+          className="flex absolute h-85 top-[417px] right-[77rem] opacity-[80%] justify-center  drop-shodow-lg"
           src={glass}
         />
         </div>

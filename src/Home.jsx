@@ -33,9 +33,9 @@ const Home = () => {
         <div className="flex flex-col absolute top-[7rem] ml-[17rem] w-[908px] h-[740px] gap-16 bg-purple-300">
           {/* <div /> */}
           <div className="flex flex-col mx-auto h-[331px] gap-6">
-          <div className="flex flex-col text-7xl justify-center md:font-bold font-normal w-908 h-331 items-center font-Rubik">
+          <div className="flex flex-col text-7xl justify-center font-bold w-908 h-331 items-center font-Rubik">
             <p className="text-center items-center justify-center family-Rubik text-[#130F40] line-78 w-775 h-156">Become an <span className="text-[#4834D4]">Airvend</span></p>
-            <p className="text-top items-center md:font-bold sm:text-bold text-[#130F40] justify-center flex flex-col">Campus Ambassador</p>
+            <p className="text-top items-center font-bold text-bold text-[#130F40] justify-center flex flex-col">Campus Ambassador</p>
           </div>
           <div className="flex flex-col opacity-70 font-rubik text-center justify-center text-sm font-normal text-[#100658]">
             <p>

@@ -22,7 +22,7 @@ const Prefooter = () => {
         <button className="w-[136px] h-10 border-[#FFFFFF] border-[0.16px] border-solid"></button>
       </div>
       <img
-        className="flex absolute top-[257rem] left-[52.8rem] md:left-[48.5rem] items-center justify-center"
+        className="flex absolute top-[257rem] left-[52.8rem] md:top-[250rem] md:left-[48.5rem] items-center justify-center"
         src={dicons}
       />
     </div>

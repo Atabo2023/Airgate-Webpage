@@ -11,30 +11,33 @@ function Homeimage() {
     <>
       {/* <div className="flex justify-center items-center w-[1440px] h-[728px] top[1069] bg-blue-500">
         <div className="w-fixed[1456px] h-Hug[566px top[81px] left[-16px] gap[115px] ]"> */}
-      
+      <div className="flex bg-contain">
       <img
             className="flex absolute top-[-92px] rotate-[25deg] left-[0rem] w-439 h-394"
             src={Ellipse2}
-          />
+            />
+            </div>
         {/* </div> */}
 
+            <div>
         <img
           className="flex absolute rotate-[-2deg] right-[-46px] top-[-90px] w-439 h-394  rotate-0.4 drop-shodow-lg"
           src={Ellipse1}
         />
+        </div>
 
  <img
           className="flex absolute w-107 h-85 top-[50px] right-[10rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
           src={note}
         />
  <img
-          className="flex absolute w-107 h-85 top-[20.5rem] right-[1rem] opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="flex absolute w-107 h-85 top-[19rem] right-[1rem] opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
           src={image2}
         />
 
       <div className="">
           <img
-          className="flex absolute h-85 top-[413px] right-[70rem] opacity-[80%] justify-center  drop-shodow-lg"
+          className="flex absolute h-85 top-[417px] right-[77rem] opacity-[80%] justify-center  drop-shodow-lg"
           src={glass}
         />
         </div>

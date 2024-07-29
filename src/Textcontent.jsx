@@ -12,7 +12,7 @@ const Textcontent = () => {
           src={circle}
         />
         <img
-          className="flex absolute left-[180px] top-[72rem] w-107 h-85 object-right justify-center"
+          className="flex absolute left-[180px] sm:top-[64rem] md:top-[64rem] w-107 h-85 object-right justify-center"
           src={image3}
         />
 

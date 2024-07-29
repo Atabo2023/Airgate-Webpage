@@ -34,15 +34,8 @@ const Home = () => {
           {/* <div /> */}
           <div className="flex flex-col mx-auto h-[331px] gap-6">
           <div className="flex flex-col text-7xl justify-center md:font-bold font-normal w-908 h-331 items-center font-Rubik">
-            <p className="flex fle-col text-center items-center justify-center family-Rubik text-[#130F40] line-78 w-775 h-156">
-              Become an
-              <p className=" flex font-Rubik text-[#4834D4] md:font-bold text-normal">
-                Airvend
-              </p>
-            </p>
-            <p className="text-top items-center md:font-bold text-normal text-[#130F40] justify-center flex flex-col">
-              Campus Ambassador
-            </p>
+            <p className="flex fle-col text-center items-center justify-center family-Rubik text-[#130F40] line-78 w-775 h-156">Become an <span className="text-[#4834D4]">Airvend</span></p>
+            <p className="text-top items-center md:font-bold text-normal text-[#130F40] justify-center flex flex-col">Campus Ambassador</p>
           </div>
           <div className="flex flex-col opacity-70 font-rubik text-center justify-center line-28 w-908 h-84 text-sm font-normal text-[#100658]">
             <p>

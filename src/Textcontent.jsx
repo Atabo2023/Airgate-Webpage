@@ -24,8 +24,8 @@ const Textcontent = () => {
         <div className="flex flex-col justify-start w-[678px] h-[347px]">
           <div className="flex items-start flex-col justify-center">
             {/* {/* <div className="flex w-[678px] h-[244px] p-[10px] gap-[10px]"> */}
-            <div className="flex text-[64px] font-bold text-[#4834D4]">
-              Lead, Collaborate, and Inspire
+            <div className="text-[64px] font-bold text-[#4834D4]">
+              Lead, Collaborate, <span className="text-[#24126A]">and</span> Inspire 
             </div>
             <p className="flex text-[#130F40] text-start items-start justify-start pb-[2.5rem]">
               Join our campus ambassador program and become a catalyst for

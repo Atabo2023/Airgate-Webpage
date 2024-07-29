@@ -27,7 +27,7 @@ function Homeimage() {
         </div>
 
  <img
-          className="flex absolute w-107 h-85 top-[25px] right-[-47rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="absolute w-107 h-85 top-[25px] md:left-[73rem] right-[-47rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
           src={note}
         />
  <img

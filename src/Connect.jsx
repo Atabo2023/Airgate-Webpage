@@ -65,19 +65,19 @@ const Connect = () => {
           src={image5}
         />
         <img
-          className="flex absolute top-[174.5rem] left-[66.4rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
+          className="flex absolute top-[174.5rem] md:left-[66.4rem] left-[61.8rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
           src={Rectangle4}
         />
         <img
-          className="flex absolute top-[193.5rem] left-[64rem] rotate-[-6.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
+          className="flex absolute top-[194.5rem] md:top-[193.5rem] left-[59.5rem] md:left-[64rem] rotate-[-6.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
           src={Rectangle1}
         />
         <img
-          className="flex absolute top-[177.8rem] left-[78.4rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
+          className="flex absolute md:top-[177.8rem] md:left-[78.4rem] top-[180rem] left-[75rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
           src={Rectangle3}
         />
         <img
-          className="absolute top-[194rem] left-[76rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
+          className="absolute md:top-[194rem] md:left-[76rem] top-[194.5rem] left-[70.8rem] rotate-[-3.26deg]  drop-shadow-[4px 4px 15px 0px #BDBDEA40] items-end h-[90px] w-[90px]"
           src={Rectangle2}
         />
         {/* </div> */}

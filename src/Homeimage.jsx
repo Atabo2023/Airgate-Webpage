@@ -21,17 +21,17 @@ function Homeimage() {
 
             <div>
         <img
-          className="flex absolute rotate-[-2deg] right-[-46px] top-[-90px] w-439 h-394  rotate-0.4 drop-shodow-lg"
+          className="flex absolute rotate-[-2deg] right-[-46px] top-[-90px] w-439 h-394 rotate-0.4 drop-shodow-lg"
           src={Ellipse1}
         />
         </div>
 
  <img
-          className="flex absolute w-107 h-85 top-[25px] right-[20rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="flex absolute w-107 h-85 top-[25px] right-[-47rem] opacity-65 justify-center rotate-[4.50deg] drop-shodow-lg"
           src={note}
         />
  <img
-          className="flex absolute w-107 h-85 top-[19rem] right-[11rem] opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
+          className="flex absolute w-107 left-[74rem] h-85 top-[19rem] md:right-[11rem opacity-[65%] justify-center rotate-[4.50deg] drop-shodow-lg"
           src={image2}
         />
 
